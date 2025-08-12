@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+nltk
+textblob
+gensim
+python-multipart
+scikit-learn
